@@ -46,8 +46,7 @@ const GetYourWebsite = () => {
                         </div>
                         <div>
                             <h4 className='text-[#240D4B] font-extrabold text-[20px] md:text-[28px]'>Customise</h4>
-                            <p className='text-[#022221] font-normal text-[14px] md:text-[18px]'>With brand-specific colors, fonts, and images to
-                                make the site uniquely yours. </p>
+                            <p className='text-[#022221] font-normal text-[14px] md:text-[18px]'>With brand-specific colors, fonts, and images </p>
                         </div>
                         <div>
                             <h4 className='text-[#240D4B] font-extrabold text-[20px] md:text-[28px]'>Launch</h4>

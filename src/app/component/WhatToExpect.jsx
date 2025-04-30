@@ -40,7 +40,7 @@ const WhatToExpect = () => {
                                     <p className='text-[18px] md:text-[25px] text-[#fff]'>Get your website live in record time without compromising on quality.</p>
                                 </div>
                             </div>
-                            <div className='flex items-center gap-4 py-6 px-3 md:px-12 greenlight-shadow w-full mb-10'>
+                            <div className='flex items-center gap-8 py-6 px-3 md:px-16 greenlight-shadow w-full mb-10'>
                                 <div>
                                     <div>
                                         <Image
@@ -99,7 +99,7 @@ const WhatToExpect = () => {
                     </div>
                     <div className=' p-3 w-full lg:w-1/2'>
                         <div className='xl:-translate-x-[120px] 2xl:-translate-x-[220px]'>
-                            <h3 className='text-[#240D4B] bg-[#AEE9B6] text-[17px] md:text-[23px] font-normal rounded-[9px] w-[280px] md:w-[380px] md:px-5 mb-4'>
+                            <h3 className='text-[#240D4B] bg-[#AEE9B6] text-[17px] md:text-[23px] font-normal rounded-[9px] w-[280px] md:w-[380px] pl-4 md:px-5 mb-4'>
                                 A message from our founder
                             </h3>
                             <h2 className='text-[#240D4B] text-[30px]  md:text-[50px]  xl:text-[55pxpx] 2xl:text-[70px] font-extrabold xl:leading-[55px] 2xl:leading-[80px]'>
