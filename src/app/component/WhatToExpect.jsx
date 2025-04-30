@@ -98,24 +98,24 @@ const WhatToExpect = () => {
 
                     </div>
                     <div className=' p-3 w-full lg:w-1/2'>
-                        <div className='xl:-translate-x-[120px] 2xl:-translate-x-[220px]'>
-                            <h3 className='text-[#240D4B] bg-[#AEE9B6] text-[17px] md:text-[23px] font-normal rounded-[9px] w-[280px] md:w-[380px] pl-4 md:px-5 mb-4'>
+                        <div className='xl:-translate-x-[120px] 2xl:-translate-x-[220px] xl:w-[120%]'>
+                            <h3 className='text-[#240D4B] bg-[#AEE9B6] text-[17px] md:text-[23px] font-normal rounded-[9px] w-[280px] md:w-[380px] pl-4 md:px-5 mb-2 xl:mb-4'>
                                 A message from our founder
                             </h3>
-                            <h2 className='text-[#240D4B] text-[30px]  md:text-[50px]  xl:text-[55pxpx] 2xl:text-[70px] font-extrabold xl:leading-[55px] 2xl:leading-[80px]'>
+                            <h2 className='text-[#240D4B] text-[30px]  md:text-[45px] lg:text-[30px] xl:text-[50px] 2xl:text-[65px] font-extrabold xl:leading-[55px] 2xl:leading-[80px]'>
                                 Greenlight was created to fix the pitfalls I’ve seen over my 20 year career
 
                             </h2>
                         </div>
 
-                        <div className='max-w-[630px] mt-7'>
-                            <p className='text-[#232323] text-[18px] font-normal mb-4'>
-                                When I started this journey, I had one goal in mind: to simplify the process of building high-quality websites for businesses like yours. I’ve seen too many people overwhelmed by complicated tech, overblown costs, and endless delays—and I knew there had to be a better way
+                        <div className='max-w-[630px] mt-5 xl:mt-7'>
+                            <p className='text-[#232323] text-[14px] xl:text-[18px] font-normal mb-2 xl:mb-4'>
+                                When I started this journey, I had one goal in mind: to simplify the process of building high-quality websites for businesses like yours. I’ve seen too many people overwhelmed by complicated tech, delays—and I knew there had to be a better way
                             </p>
-                            <p className='text-[#232323] text-[18px] font-normal mb-4'>
-                                At Green Light Digital, we believe every business deserves a professional online presence without the stress. That’s why we focus on speed, affordability, and transparency, delivering websites that not only look amazing but are ready to drive results.
-                            </p>
-                            <p className='text-[#232323] text-[18px] font-bold mb-4'>
+                            {/* <p className='text-[#232323] text-[18px] font-normal mb-4'>
+                                At Green Light Digital, we believe every business deserves a professional online presence without the stress. That’s why we focus on speed, affordability, and transparency.
+                            </p> */}
+                            <p className='text-[#232323] text-[14px] xl:text-[18px] font-bold mb-2 xl:mb-4'>
                                 Thank you for trusting us with your vision. We’re excited to help you bring it to life!
                             </p>
                             <div className='flex'>

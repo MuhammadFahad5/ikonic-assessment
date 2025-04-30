@@ -15,8 +15,8 @@ const SpeedResult = () => {
             <div className='my-container relative z-10'>
                 <div className='my-row'>
                     <div className='p-3 w-full lg:w-1/2'>
-                        <div className='mt-16 mb-8 bg-[#fff] px-4 sm:px-12 py-20 xl:px-16 rounded-[40px]'>
-                            <h2 className='text-[30px] md:text-[50px] xl:text-[60px] font-bold sm:leading-[70px] text-[#240D4B]'>
+                        <div className='mt-16 mb-8 bg-[#fff] px-4 sm:px-8 py-12 xl:py-20 xl:px-16 rounded-[40px]'>
+                            <h2 className='text-[30px] md:text-[50px] lg:text-[45px] xl:text-[60px] font-bold sm:leading-[70px] text-[#240D4B]'>
                             We’re all about simplicity, speed and results
                             </h2>
                             <p className='text-[14px] text-[#232323] mt-3'>
