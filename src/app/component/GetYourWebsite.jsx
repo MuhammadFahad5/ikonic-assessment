@@ -1,5 +1,5 @@
 import React from 'react'
-import mobile_img from '../../../public/getwebsite/get-your-website-all.png'
+import mobile_img from '../../../public/getwebsite/get_all.svg'
 import get_icon from '../../../public/getwebsite/get-your-website-icon.png'
 import get_side from '../../../public/getwebsite/get-your-website-side.png'
 import Image from 'next/image'
@@ -7,7 +7,7 @@ import Image from 'next/image'
 const GetYourWebsite = () => {
     return (
         <section className='flex flex-wrap xl:flex-nowrap my-12 md:mt-[100px] md:mb-[150px]'>
-            <div className='hidden xl:block w-full mx-auto min-h-[500px] xl:w-[40%] relative mb-10 xl:mb-0'>
+            <div className='hidden xl:block w-full mx-auto min-h-[500px] xl:w-[41%] relative mb-10 xl:mb-0'>
                 <div className='bg-[#AEE9B6] h-[550px] xl:h-full w-full xl:w-[92%]  xl:rounded-l-[0px] rounded-r-[65px]'>
                 <Image
                     src={mobile_img}
@@ -20,15 +20,16 @@ const GetYourWebsite = () => {
                 <Image
                     src={mobile_img}
                     alt="portfolio"
-                    className="hidden xl:block w-[480px] h-[580px]  xl:w-[960px] xl:h-[1035px] absolute xl:left-0 xl:bottom-[-115px] xl:right-[-20px]"
+                    className="hidden xl:block w-[480px] h-[580px]  xl:w-[840px] xl:h-[993px] absolute xl:left-0 xl:bottom-[-135px] xl:right-[-20px]"
+                    // className="hidden xl:block   w-full absolute xl:left-0 xl:bottom-[-115px] xl:right-[-20px]"
                 />
 
 
 
             </div>
-            <div className='bg-[#F5F5F5] w-full xl:w-[60%] rounded-l-[65px] p-10 md:p-20 relative overflow-hidden'>
-                <h2 className='text-[#240D4B] font-extrabold text-[30px] md:text-[70px]'>Get your website in </h2>
-                <h2 className='text-[#89D991] font-extrabold text-[30px] md:text-[70px]'>three easy steps</h2>
+            <div className='bg-[#F5F5F5] w-full xl:w-[59%] rounded-l-[65px] p-10 md:py-8 md:pl-20 md:pr-1 relative overflow-hidden'>
+                <h2 className='text-[#240D4B] font-extrabold text-[24px] md:text-[67px]'>Get your website in </h2>
+                <h2 className='text-[#89D991] font-extrabold text-[24px] md:text-[67px] md:mt-[-18px]'>three easy steps</h2>
                 <div className='flex gap-5 mt-2'>
                     <div className='hidden lg:block'>
                         <Image
