@@ -1,8 +1,8 @@
 
 "use client"
 import React, { useRef } from 'react'
-import banner_1 from '../../../public/home/banner-1.png'
-import banner_2 from '../../../public/home/banner-2.png'
+import banner_1 from '../../../public/home/banner_1.svg'
+import banner_2 from '../../../public/home/banner_2.svg'
 import down_arrow from '../../../public/home/Icon akar-arrow-right.png'
 import Image from 'next/image'
 import './HeroSection.css'
