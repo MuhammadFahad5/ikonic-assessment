@@ -88,11 +88,11 @@ const HeroSection = () => {
                     </div>
                     <div className='p-3 w-full hidden xl:block xl:w-1/2'>
                         <div className='bg-[#41286C] xl:absolute top-0 right-0 pt-72 pl-8 pb-8 pr-28 2xl:pr-[150px] rounded-bl-[280px] main-banner'>
-                            <div className='w-[100%] max-w-[500px] xl:max-w-[500px] 2xl:max-w-[580px] mx-auto relative image-con'>
+                            <div className='w-[100%] max-w-[500px] xl:max-w-[500px] 2xl:max-w-[580px] mx-auto relative image-con main-parent'>
                                 <Image
                                     src={banner_1}
                                     alt="Main banner"
-                                    className="w-[95%] "
+                                    className="w-[95%] main-cicrcle"
                                 />
                                 <Image
                                     src={banner_2}

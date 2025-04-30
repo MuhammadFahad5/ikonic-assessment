@@ -43,3 +43,15 @@
         max-width: 640px;
     }
   }
+
+  .main-cicrcle{
+    transition: 5s all;
+  }
+
+.main-parent:hover .main-cicrcle{
+  transform: rotate(310deg);
+}
+
+  /* .main-cicrcle:hover{
+    transform: rotate(360deg);
+  } */
