@@ -30,7 +30,7 @@ const HeroSection = () => {
                     <div className='p-3 w-full xl:w-1/2'>
 
                         <div className='xl:mt-20 main-banner-content'>
-                            <h1 className='text-[#fff] font-extrabold text-[50px] md:text-[70px] xl:text-[88px] 2xl:text-[110px] md:leading-[110px] '>
+                            <h1 className='text-[#fff] font-extrabold text-[50px] md:text-[70px] xl:text-[88px] 2xl:text-[100px] md:leading-[110px] '>
                                 Ready To Go
                             </h1>
                             <h2 className='text-[#AEE9B6] font-extrabold text-[28px] xl:text-[40px] mt-8'>Smart and efficient websites</h2>
