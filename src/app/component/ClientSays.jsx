@@ -5,8 +5,8 @@ import React from 'react'
 import client1 from '../../../public/client/client-1.png'
 import client2 from '../../../public/client/client-2.png'
 import client3 from '../../../public/client/client-3.png'
-import left from '../../../public/ourwebsite/left-arrow.png'
-import right from '../../../public/ourwebsite/right-arrow.png'
+import left from '../../../public/ourwebsite/left_arrow.svg'
+import right from '../../../public/ourwebsite/right_arrow.svg'
 
 import Image from 'next/image'
 import { useRef } from "react";

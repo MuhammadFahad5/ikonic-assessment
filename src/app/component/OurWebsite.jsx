@@ -3,8 +3,8 @@ import React,{ useRef } from 'react'
 import first from '../../../public/ourwebsite/first.png'
 import second from '../../../public/ourwebsite/second.png'
 import third from '../../../public/ourwebsite/third.png'
-import left from '../../../public/ourwebsite/left-arrow.png'
-import right from '../../../public/ourwebsite/right-arrow.png'
+import left from '../../../public/ourwebsite/left_arrow.svg'
+import right from '../../../public/ourwebsite/right_arrow.svg'
 import Image from 'next/image'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -86,6 +86,7 @@ const OurWebsite = () => {
                                             src={left}
                                             alt="website"
                                             className="w-full bg-black rounded-full"
+
                                         />
                                     </div>
                                     <div onClick={next} className='cursor-pointer'>
